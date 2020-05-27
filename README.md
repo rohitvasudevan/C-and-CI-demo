@@ -11,3 +11,5 @@ Example: 3 = 3^1 = 3
         153 = 1^3 + 5^3 + 3^3 = 153
         
 3 and 153 are Armstrong numbers. 
+
+Latest Commit: concat.c and concatptr.c are programs which demonstrate concatenation of 2 strings. One uses a while loop and the other implements the concept of Pointers. 
